@@ -7,6 +7,10 @@
 - [2920](BOJ/2920.py)
 - [2920](BOJ/2798.py)
 - [1874](BOJ/1874.py) *
+- [1920](BOJ/1920.py) 
+- [1966](BOJ/1966.py)
+- [5397](BOJ/5397.py) ** 
+- [10930](BOJ/10930.py) * 
 
 ### [Programmers](https://programmers.co.kr/)
 
