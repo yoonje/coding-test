@@ -1,9 +1,12 @@
 # Practice for Coding Test
-코딩 테스트 준비를 위해 정리한 맞힌 문제, 30분 이후 맞힌 문제, 못 맞힌 문제 리스트 및 솔루션 코드 정리 자료
+코딩 테스트 준비를 위해 정리한 맞힌 문제, 30분 이후 맞힌 문제\(\*\), 못 맞힌 문제(**) 리스트 및 솔루션 코드 정리 자료
 
 #### Language: Python3
 
 ### [BOJ](https://www.acmicpc.net/)
+- [2920](BOJ/2920.py)
+- [2920](BOJ/2798.py)
+- [1874](BOJ/1874.py) *
 
 ### [Programmers](https://programmers.co.kr/)
 
