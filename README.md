@@ -7,17 +7,20 @@
 BOJ / Bronze - 20분, Silver - 30분, Gold - 50분
 
 ### [BOJ](https://www.acmicpc.net/)
+- [1427](BOJ/1427.py)
 - [2920](BOJ/2920.py)
-- [2920](BOJ/2798.py)
+- [2750](BOJ/2750.py)
+- [2928](BOJ/2798.py)
 - [1874](BOJ/1874.py) *
 - [1920](BOJ/1920.py) 
 - [1966](BOJ/1966.py)
+- [4195](BOJ/4195.py) **
 - [5397](BOJ/5397.py) ** 
 - [10930](BOJ/10930.py) 
 - [4195](BOJ/4195.py) *
 - [11650](BOJ/11650.py)
 - [10989](BOJ/10989.py)
-- [10989](BOJ/10989.py) **
+- [10814](BOJ/10814.py) **
 
 ### [Programmers](https://programmers.co.kr/)
 
