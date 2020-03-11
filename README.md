@@ -1,7 +1,10 @@
 # Practice for Coding Test
-코딩 테스트 준비를 위해 정리한 맞힌 문제, 30분 이후 맞힌 문제\(\*\), 못 맞힌 문제(**) 리스트 및 솔루션 코드 정리 자료
+코딩 테스트 준비를 위해 정리한 맞힌 문제, 제한 시간 이후에 맞힌 문제\(\*\), 못 맞힌 문제(**) 리스트 및 솔루션 코드 정리 자료
 
 #### Language: Python3
+
+#### 문제 풀이 제한 시간
+BOJ / Bronze - 20분, Silver - 30분, Gold - 50분
 
 ### [BOJ](https://www.acmicpc.net/)
 - [2920](BOJ/2920.py)
@@ -11,6 +14,8 @@
 - [1966](BOJ/1966.py)
 - [5397](BOJ/5397.py) ** 
 - [10930](BOJ/10930.py) * 
+- [4195](BOJ/4195.py) *
+- 
 
 ### [Programmers](https://programmers.co.kr/)
 
