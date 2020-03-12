@@ -4,7 +4,7 @@
 #### Language: Python3
 
 #### 문제 풀이 제한 시간
-BOJ / Bronze - 20분, Silver - 30분, Gold - 50분
+BOJ / Bronze - 20분, Silver - 40분, Gold - 60분
 
 ### [BOJ](https://www.acmicpc.net/)
 - [1427](BOJ/1427.py)
@@ -20,6 +20,12 @@ BOJ / Bronze - 20분, Silver - 30분, Gold - 50분
 - [11650](BOJ/11650.py)
 - [10989](BOJ/10989.py)
 - [10814](BOJ/10814.py) **
+- [2747](BOJ/2747.py)
+- [1074](BOJ/1074.py) **
+- [7490](BOJ/7490.py) *
+- [2751](BOJ/2751.py) 
+- [11004](BOJ11004.py)
+
 
 ### [Programmers](https://programmers.co.kr/)
 
