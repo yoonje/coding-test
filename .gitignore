@@ -130,3 +130,5 @@ dmypy.json
 
 # cache
 __pycache__
+
+prac.py
