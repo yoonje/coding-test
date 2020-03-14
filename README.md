@@ -32,8 +32,16 @@ BOJ / Bronze - 20분, Silver - 40분, Gold - 60분
 - [1302](BOJ/1302.py)
 - [1668](BOJ/1668.py) 
 - [1236](BOJ/1236.py) *
+- [1991](BOJ/1991.py)
+- [2250](BOJ/2250.py) **
+- [1927](BOJ/1927.py)
+- [1715](BOJ/1715.py)
+- [1766](BOJ/1766.py) **
+
 
 ### [Programmers](https://programmers.co.kr/)
+
+### [Codeup](https://codeup.kr/problemsetsol.php)
 
 ### [Kakao 2018 공채 1차](https://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/)
 
@@ -41,4 +49,3 @@ BOJ / Bronze - 20분, Silver - 40분, Gold - 60분
 
 ### [Kakao 2020 공채 1차](https://tech.kakao.com/2019/10/02/kakao-blind-recruitment-2020-round1/)
 
-### [Codeup](https://codeup.kr/problemsetsol.php)
