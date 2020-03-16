@@ -1,4 +1,4 @@
-# Basis of solution
+# Basis of solving
 Python을 이용한 코딩 테스트 문제 해결을 위한 접근법을 설명합니다.
 
 ### 문제 풀이 방법
