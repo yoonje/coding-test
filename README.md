@@ -39,6 +39,11 @@ BOJ / Bronze - 20분, Silver - 40분, Gold - 60분
 - [1715](BOJ/1715.py)
 - [1766](BOJ/1766.py) **
 - [1904](BOJ/1904.py)
+- [12865](BOJ/12865.py) *
+- [11053](BOJ/11053.py) *
+- [9251](BOJ/9251.py) *
+- [1495](BOJ/1495.py) *
+- [2655](BOJ/2655.py) **
 
 ### [Programmers](https://programmers.co.kr/)
 
