@@ -4,8 +4,8 @@
 ## Info
 Language: Python3<br>
 문제 풀이 제한 시간
-- BOJ / Bronze - 20분, Silver - 40분, Gold - 60분
-- Programmers /
+- BOJ : Bronze - 20분, Silver - 40분, Gold - 60분
+- Programmers : L1 - 15분, L2 - 30분, L3 - 50분, L4 - 70분
 
 ## [BOJ](https://www.acmicpc.net/)
 ##### 자료구조
