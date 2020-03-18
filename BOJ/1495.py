@@ -18,4 +18,5 @@ for i in range(m, -1, -1):
     if dp[n][i] == 1:
         result = i
         break
+
 print(result)
