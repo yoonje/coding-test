@@ -44,6 +44,11 @@ BOJ / Bronze - 20분, Silver - 40분, Gold - 60분
 - [9251](BOJ/9251.py) *
 - [1495](BOJ/1495.py) *
 - [2655](BOJ/2655.py) **
+1260 *
+1697 *
+2606 *
+1012 
+1325
 
 ### [Programmers](https://programmers.co.kr/)
 
