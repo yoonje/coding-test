@@ -65,19 +65,23 @@ Language: Python3<br>
 - [5585](BOJ/5585.py)
 - [1439](BOJ/1439.py) *
 - [2012](BOJ/2012.py)
-- [1092](BOJ/1092.py)
-- [2212](BOJ/)
-- [1461](BOJ/)
-- [1781](BOJ/)
+- [1092](BOJ/1092.py) *
+- [2212](BOJ/2212.py) *
+- [1461](BOJ/1461.py) *
+- [1781](BOJ/1781.py) **
+##### 백트래킹
+- [9663](BOJ/9663.py) *
+- [1987](BOJ/1987.py) *
+- [1759](BOJ/1759.py) *
 
 ## [Programmers](https://programmers.co.kr/)
 ##### 자료구조 - 해시/스택/큐/힙
 ##### 정렬
 ##### 탐색 - 완전탐색/이분탐색
-##### 그리디
-##### 그래프 - BFS/DFS
 ##### DP
+##### 그래프 - BFS/DFS
 ##### 그래프 - 최단경로
+##### 그리디
 
 ## [Kakao 2018 공채 1차](https://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/)
 
