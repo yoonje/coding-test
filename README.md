@@ -1,7 +1,7 @@
 # Practice for Coding Test
 코딩 테스트 준비를 위해 정리한 맞힌 문제, 제한 시간 이후에 맞힌 문제\(\*\), 못 맞힌 문제(**) 리스트 및 솔루션 코드 정리 자료
 
-## Info
+## Additional Info
 Language: Python3<br>
 문제 풀이 제한 시간
 - BOJ : Bronze - 20분, Silver - 40분, Gold - 60분
@@ -62,17 +62,13 @@ Language: Python3<br>
 ##### 그래프 - MST
 - [1774](BOJ/1774.py) **
 ##### 그리디
-- [5585](BOJ/)
-- [1439](BOJ/)
-- [2012](BOJ/)
-- [1092](BOJ/)
+- [5585](BOJ/5585.py)
+- [1439](BOJ/1439.py) *
+- [2012](BOJ/2012.py)
+- [1092](BOJ/1092.py)
 - [2212](BOJ/)
 - [1461](BOJ/)
-- [1781](BOJ/) 
-##### 백트래킹
-- [9663](BOJ/)
-- [1987](BOJ/)
-- [1759](BOJ/)
+- [1781](BOJ/)
 
 ## [Programmers](https://programmers.co.kr/)
 ##### 자료구조 - 해시/스택/큐/힙
