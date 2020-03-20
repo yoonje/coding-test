@@ -4,10 +4,17 @@
 ## Additional Info
 Language: Python3<br>
 문제 풀이 제한 시간
-- BOJ : Bronze - 20분, Silver - 40분, Gold - 60분
+- BOJ : Bronze - 20분, Silver - 40분, Gold - 60분, Platinum - 80분
 - Programmers : L1 - 15분, L2 - 30분, L3 - 50분, L4 - 70분
 
 ## [BOJ](https://www.acmicpc.net/)
+##### Basis
+- [15969](BOJ/15969.py)
+- [10539](BOJ/10539.py)
+- [17269](BOJ/17269.py)
+- [17389](BOJ/17389.py)
+- [16165](BOJ/16165.py)
+- [17224](BOJ/17224.py)
 ##### 자료구조 - 해시/스택/큐/힙
 - [2920](BOJ/2920.py)
 - [2928](BOJ/2798.py)
