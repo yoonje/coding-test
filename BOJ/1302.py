@@ -1,5 +1,4 @@
 from collections import defaultdict
-from operator import itemgetter
 
 sell_num = int(input())
 table = defaultdict(int)
