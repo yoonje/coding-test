@@ -23,7 +23,6 @@ Language: Python3<br>
 - [2484](BOJ/2484.py)
 - [16675](BOJ/16675.py)
 - [16956](BOJ/16956.py) *
-- [14620](BOJ/14620.py) *
 ##### 문자열
 - [17413](BOJ/17413.py) *
 ##### 자료구조 - 해시/스택/큐/힙
@@ -69,7 +68,11 @@ Language: Python3<br>
 - [1697](BOJ/1697.py) *
 - [2606](BOJ/2606.py) *
 - [1012](BOJ/1012.py)
+- [14620](BOJ/14620.py) *
 - [1325](BOJ/1325.py)
+- [16768](BOJ/16768.py) *
+- [12100](BOJ/12100.py) **
+- [17406](BOJ/17406.py) **
 ##### 그래프 - 최단경로
 - [10282](BOJ/10282.py) *
 - [5719](BOJ/5719.py) **
@@ -89,14 +92,20 @@ Language: Python3<br>
 - [1759](BOJ/1759.py) *
 
 ## [Programmers](https://programmers.co.kr/)
+##### Basis
 ##### 문자열
 ##### 자료구조 - 해시/스택/큐/힙
 ##### 정렬
 ##### 탐색 - 완전탐색/이분탐색
+##### 트리
 ##### DP
 ##### 그래프 - BFS/DFS
 ##### 그래프 - 최단경로
+##### 그래프 - MST
 ##### 그리디
+##### 백트래킹
+
+## [Programmers 모의테스트](https://programmers.co.kr/learn/courses/18)
 
 ## [Kakao 2018 공채 1차](https://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/)
 
