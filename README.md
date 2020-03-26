@@ -4,8 +4,8 @@
 ## Additional Info
 Language: Python3<br>
 문제 풀이 제한 시간
-- BOJ : Bronze - 20분, Silver - 40분, Gold - 60분, Platinum - 80분
-- Programmers : L1 - 15분, L2 - 30분, L3 - 50분, L4 - 70분
+- BOJ(solved.ac) : Bronze - 20분, Silver - 40분, Gold - 60분
+- Programmers : L1 - 15분, L2 - 30분, L3 - 50분
 
 ## [BOJ](https://www.acmicpc.net/)
 ##### Basis
@@ -63,6 +63,9 @@ Language: Python3<br>
 - [9251](BOJ/9251.py) *
 - [1495](BOJ/1495.py) *
 - [2655](BOJ/2655.py) **
+- [1932](BOJ/1932.py)
+- [11055](BOJ/11055.py)
+- [2167](BOJ/2167.py)
 ##### 그래프 - BFS/DFS
 - [1260](BOJ/1260.py) *
 - [1697](BOJ/1697.py) *
@@ -107,9 +110,32 @@ Language: Python3<br>
 
 ## [Programmers 모의테스트](https://programmers.co.kr/learn/courses/18)
 
-## [Kakao 2018 공채 1차](https://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/)
+## [Kakao 2018 공채 1차](https://programmers.co.kr/learn/challenges?tab=all_challenges)
+- [해설](https://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/)
+- 1번
+- 2번
+- 3번
+- 4번
+- 5번
+- 6번
+- 7번
 
-## [Kakao 2019 공채 1차](https://tech.kakao.com/2018/09/21/kakao-blind-recruitment-for2019-round-1/)
+## [Kakao 2019 공채 1차](https://programmers.co.kr/learn/challenges?tab=all_challenges)
+- [해설](https://tech.kakao.com/2018/09/21/kakao-blind-recruitment-for2019-round-1/)
+- 1번
+- 2번
+- 3번
+- 4번
+- 5번
+- 6번
+- 7번
 
-## [Kakao 2020 공채 1차](https://tech.kakao.com/2019/10/02/kakao-blind-recruitment-2020-round1/)
-
+## [Kakao 2020 공채 1차](https://programmers.co.kr/learn/challenges?tab=all_challenges)
+- [해설](https://tech.kakao.com/2019/10/02/kakao-blind-recruitment-2020-round1/)
+- 1번
+- 2번
+- 3번
+- 4번
+- 5번
+- 6번
+- 7번
