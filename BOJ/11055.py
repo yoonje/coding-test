@@ -1,7 +1,7 @@
 import copy
 
 N, A = int(input()), list(map(int, input().split()))
-
+# dp[i]는 i까지 왔을 때 합의 최대
 dp = copy.deepcopy(A)
 
 for i in range(1, N):

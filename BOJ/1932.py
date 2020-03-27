@@ -1,5 +1,7 @@
 N = int(input())
 A = [[0 for _ in range(N + 1)] for _ in range(N + 1)]
+# dp[i][j]는 i,j를 도착했을 때 최대값
+# dp[i][j] = max(dp[i - 1][j - 1], dp[i - 1][j]) + A[i][j]
 dp = [[0 for _ in range(N + 1)] for _ in range(N + 1)]
 
 for i in range(1, N + 1):

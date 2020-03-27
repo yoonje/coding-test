@@ -1,6 +1,6 @@
 N, M = map(int, input().split())
 A = [list(map(int, input().split())) for _ in range(N)]
-
+# dp[i][j] = (1,1)부터 (i,j)까지의 부분합
 dp = [[0 for i in range(M + 1)] for _ in range(N + 1)]
 
 for i in range(1, N + 1):
