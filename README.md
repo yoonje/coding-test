@@ -112,6 +112,13 @@ Language: Python3<br>
 ##### 백트래킹
 
 ## [Programmers 모의테스트](https://programmers.co.kr/learn/courses/18)
+- 1번
+- 2번
+- 3번
+- 4번
+- 5번
+- 6번
+- 7번
 
 ## [Kakao 2018 공채 1차](https://programmers.co.kr/learn/challenges?tab=all_challenges)
 - [해설](https://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/)
