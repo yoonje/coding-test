@@ -123,6 +123,16 @@ Language: Python3<br>
 - 6번
 - 7번
 
+## [Kakao 2018 공채 3차](https://programmers.co.kr/learn/challenges?tab=all_challenges)
+- [해설](https://tech.kakao.com/2017/11/14/kakao-blind-recruitment-round-3/)
+- 1번
+- 2번
+- 3번
+- 4번
+- 5번
+- 6번
+- 7번
+
 ## [Kakao 2019 공채 1차](https://programmers.co.kr/learn/challenges?tab=all_challenges)
 - [해설](https://tech.kakao.com/2018/09/21/kakao-blind-recruitment-for2019-round-1/)
 - 1번
@@ -135,6 +145,16 @@ Language: Python3<br>
 
 ## [Kakao 2020 공채 1차](https://programmers.co.kr/learn/challenges?tab=all_challenges)
 - [해설](https://tech.kakao.com/2019/10/02/kakao-blind-recruitment-2020-round1/)
+- 1번
+- 2번
+- 3번
+- 4번
+- 5번
+- 6번
+- 7번
+
+## [Kakao 2020 겨울 인턴십](https://programmers.co.kr/learn/challenges?tab=all_challenges)
+- [해설]()
 - 1번
 - 2번
 - 3번
