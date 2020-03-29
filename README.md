@@ -156,58 +156,58 @@ Language: Python3<br>
 
 ## [Programmers 모의테스트](https://programmers.co.kr/learn/courses/18)
 - [해설](https://programmers.co.kr/learn/courses/18)
-- 1번
-- 2번
-- 3번
-- 4번
-- 5번
-- 6번
-- 7번
+- [1번](Programmers-test/1.py)
+- [2번](Programmers-test/2.py)
+- [3번](Programmers-test/3.py)
+- [4번](Programmers-test/4.py)
+- [5번](Programmers-test/5.py)
+- [6번](Programmers-test/6.py)
+- [7번](Programmers-test/7.py)
 
 ## [Kakao 2018 공채 1차](https://programmers.co.kr/learn/challenges?tab=all_challenges)
 - [해설](https://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/)
-- 1번
-- 2번
-- 3번
-- 4번
-- 5번
-- 6번
-- 7번
+- [1번](Kakao2018/1.py)
+- [2번](Kakao2018/2.py)
+- [3번](Kakao2018/3.py)
+- [4번](Kakao2018/4.py)
+- [5번](Kakao2018/5.py)
+- [6번](Kakao2018/6.py)
+- [7번](Kakao2018/7.py)
 
 ## [Kakao 2018 공채 3차](https://programmers.co.kr/learn/challenges?tab=all_challenges)
 - [해설](https://tech.kakao.com/2017/11/14/kakao-blind-recruitment-round-3/)
-- 1번
-- 2번
-- 3번
-- 4번
-- 5번
-- 6번
-- 7번
+- [1번](Kakao2018-3/1.py)
+- [2번](Kakao2018-3/2.py)
+- [3번](Kakao2018-3/3.py)
+- [4번](Kakao2018-3/4.py)
+- [5번](Kakao2018-3/5.py)
+- [6번](Kakao2018-3/6.py)
+- [7번](Kakao2018-3/7.py)
 
 ## [Kakao 2019 공채 1차](https://programmers.co.kr/learn/challenges?tab=all_challenges)
 - [해설](https://tech.kakao.com/2018/09/21/kakao-blind-recruitment-for2019-round-1/)
-- 1번
-- 2번
-- 3번
-- 4번
-- 5번
-- 6번
-- 7번
+- [1번](Kakao2019/1.py)
+- [2번](Kakao2019/2.py)
+- [3번](Kakao2019/3.py)
+- [4번](Kakao2019/4.py)
+- [5번](Kakao2019/5.py)
+- [6번](Kakao2019/6.py)
+- [7번](Kakao2019/7.py)
 
 ## [Kakao 2020 공채 1차](https://programmers.co.kr/learn/challenges?tab=all_challenges)
 - [해설](https://tech.kakao.com/2019/10/02/kakao-blind-recruitment-2020-round1/)
-- 1번
-- 2번
-- 3번
-- 4번
-- 5번
-- 6번
-- 7번
+- [1번](Kakao2020/1.py)
+- [2번](Kakao2020/2.py)
+- [3번](Kakao2020/3.py)
+- [4번](Kakao2020/4.py)
+- [5번](Kakao2020/5.py)
+- [6번](Kakao2020/6.py)
+- [7번](Kakao2020/7.py)
 
 ## [Kakao 2020 겨울 인턴십](https://programmers.co.kr/learn/challenges?tab=all_challenges)
 - [해설]()
-- 1번
-- 2번
-- 3번
-- 4번
-- 5번
+- [1번](Kakao2020-winter/1.py)
+- [2번](Kakao2020-winter/2.py)
+- [3번](Kakao2020-winter/3.py)
+- [4번](Kakao2020-winter/4.py)
+- [5번](Kakao2020-winter/5.py)
