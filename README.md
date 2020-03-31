@@ -154,28 +154,63 @@ Language: Python3<br>
 - [저울](Programmers/42886.py)
 ##### 백트래킹
 
+##[Programmers SQL](https://programmers.co.kr/learn/challenges?tab=sql_practice_kit)
+##### SELECT
+- [모든 레코드 조회하기](Programmers-SQL/59034.sql)
+- [역순 정렬하기](Programmers-SQL/59035.sql)
+- [아픈 동물 찾기](Programmers-SQL/59036.sql)
+- [어린 동물 찾기](Programmers-SQL/59037.sql)
+- [동물의 아이디와 이름](Programmers-SQL/59403.sql)
+- [여러 기준으로 정렬하기](Programmers-SQL/59404.sql)
+- [상위 N개 레코드](Programmers-SQL/59405.sql)
+
+##### SUM,MAX,MIN
+- [최대값 구하기](Programmers-SQL/59415.sql)
+- [최솟값 구하기](Programmers-SQL/59038.sql)
+- [동물 수 구하기](Programmers-SQL/59406.sql)
+- [중복 제거하기](Programmers-SQL/59408.sql)
+
+##### GROUP BY
+- [고양이와 개는 몇 마리 있을까](Programmers-SQL/59040.sql)
+- [동명 동물 수 찾기](Programmers-SQL/59041.sql)
+- [입양 시각 구하기(1)](Programmers-SQL/59412.sql)
+
+##### IS NULL
+- [이름이 없는 동물의 아이디](Programmers-SQL/59039.sql)
+- [이름이 있는 동물의 아이디](Programmers-SQL/59407.sql)
+- [NULL 처리하기](Programmers-SQL/59410.sql)
+ 
+##### JOIN
+- [없어진 기록 찾기](Programmers-SQL/59042.sql)
+- [있었는데요 없었습니다](Programmers-SQL/59043.sql)
+- [오랜 기간 보호한 동물(1)](Programmers-SQL/59044.sql)
+
+##### String, Date
+- [루시와 엘라 찾기](Programmers-SQL/59046.sql)
+- [이름에 el이 들어가는 동물 찾기](Programmers-SQL/59047.sql)
+- [중성화 여부 파악하기](Programmers-SQL/59409.sql)
+- [오랜 기간 보호한 동물(2)](Programmers-SQL/59411.sql)
+- [DATIME에서 DATE로 형 변환](Programmers-SQL/59414.sql)
+
 ## [Programmers 모의테스트](https://programmers.co.kr/learn/courses/18)
-- [해설](https://programmers.co.kr/learn/courses/18)
-- [1번](Programmers-test/1.py)
-- [2번](Programmers-test/2.py)
-- [3번](Programmers-test/3.py)
-- [4번](Programmers-test/4.py)
-- [5번](Programmers-test/5.py)
-- [6번](Programmers-test/6.py)
-- [7번](Programmers-test/7.py)
+- [1번](Programmers-semi-test/1.py)
+- [2번](Programmers-semi-test/2.py)
+- [3번](Programmers-semi-test/3.py)
+- [4번](Programmers-semi-test/4.py)
+- [5번](Programmers-semi-test/5.py)
+- [6번](Programmers-semi-test/6.py)
+- [7번](Programmers-semi-test/7.py)
 
 ## [Kakao 2018 공채 1차](https://programmers.co.kr/learn/challenges?tab=all_challenges)
-- [해설](https://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/)
 - [1번](Kakao2018/1.py)
-- [2번](Kakao2018/2.py)
+- [2번](Kakao2018/2.py) *
 - [3번](Kakao2018/3.py)
-- [4번](Kakao2018/4.py)
+- [4번](Kakao2018/4.py) *
 - [5번](Kakao2018/5.py)
-- [6번](Kakao2018/6.py)
-- [7번](Kakao2018/7.py)
+- [6번](Kakao2018/6.py) *
+- [7번](Kakao2018/7.py) *
 
 ## [Kakao 2018 공채 3차](https://programmers.co.kr/learn/challenges?tab=all_challenges)
-- [해설](https://tech.kakao.com/2017/11/14/kakao-blind-recruitment-round-3/)
 - [1번](Kakao2018-3/1.py)
 - [2번](Kakao2018-3/2.py)
 - [3번](Kakao2018-3/3.py)
@@ -185,7 +220,6 @@ Language: Python3<br>
 - [7번](Kakao2018-3/7.py)
 
 ## [Kakao 2019 공채 1차](https://programmers.co.kr/learn/challenges?tab=all_challenges)
-- [해설](https://tech.kakao.com/2018/09/21/kakao-blind-recruitment-for2019-round-1/)
 - [1번](Kakao2019/1.py)
 - [2번](Kakao2019/2.py)
 - [3번](Kakao2019/3.py)
@@ -195,7 +229,6 @@ Language: Python3<br>
 - [7번](Kakao2019/7.py)
 
 ## [Kakao 2020 공채 1차](https://programmers.co.kr/learn/challenges?tab=all_challenges)
-- [해설](https://tech.kakao.com/2019/10/02/kakao-blind-recruitment-2020-round1/)
 - [1번](Kakao2020/1.py)
 - [2번](Kakao2020/2.py)
 - [3번](Kakao2020/3.py)
@@ -205,7 +238,6 @@ Language: Python3<br>
 - [7번](Kakao2020/7.py)
 
 ## [Kakao 2020 겨울 인턴십](https://programmers.co.kr/learn/challenges?tab=all_challenges)
-- [해설]()
 - [1번](Kakao2020-winter/1.py)
 - [2번](Kakao2020-winter/2.py)
 - [3번](Kakao2020-winter/3.py)
