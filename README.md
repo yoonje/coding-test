@@ -222,7 +222,7 @@ Language: Python3 / Oracle<br>
 ## [Kakao 2019 공채 1차](https://programmers.co.kr/learn/challenges?tab=all_challenges)
 - [1번](Kakao2019/1.py)
 - [2번](Kakao2019/2.py)
-- [3번](Kakao2019/3.py)
+- [3번](Kakao2019/3.py) *
 - [4번](Kakao2019/4.py)
 - [5번](Kakao2019/5.py)
 - [6번](Kakao2019/6.py)
