@@ -131,4 +131,8 @@ dmypy.json
 # cache
 __pycache__
 
+# practice file
 prac.py
+
+# test file
+test/
