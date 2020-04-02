@@ -6,7 +6,7 @@ Language: Python3 / Oracle<br>
 문제 풀이 제한 시간
 - BOJ(solved.ac) : Bronze - 20분, Silver - 40분, Gold - 60분
 - Programmers : L1 - 15분, L2 - 30분, L3 - 50분
-- Leetcode : Easy - 20분, Medium - 40분
+- LeetCode : Easy - 20분, Medium - 40분
 
 ## [BOJ](https://www.acmicpc.net/)
 ##### Basis
