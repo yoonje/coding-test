@@ -5,7 +5,7 @@
 Language: Python3 / Oracle<br>
 문제 풀이 제한 시간
 - BOJ(solved.ac) : Bronze - 20분, Silver - 40분, Gold - 60분
-- Programmers : L1 - 15분, L2 - 30분, L3 - 50분
+- Programmers : L1 - 20분, L2 - 40분, L3 - 60분
 - LeetCode : Easy - 20분, Medium - 40분
 
 ## [BOJ](https://www.acmicpc.net/)
@@ -230,7 +230,7 @@ Language: Python3 / Oracle<br>
 - [1번](Kakao2019/1.py)
 - [2번](Kakao2019/2.py)
 - [3번](Kakao2019/3.py) *
-- [4번](Kakao2019/4.py)
+- [4번](Kakao2019/4.py) *
 - [5번](Kakao2019/5.py)
 - [6번](Kakao2019/6.py)
 - [7번](Kakao2019/7.py)
