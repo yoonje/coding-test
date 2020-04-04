@@ -15,7 +15,7 @@ def solution(food_times, k):
         sum_value += (now - previous) * length
         length -= 1
         previous = now
-        # 남은 음식 중에서 몇 번째 음식인지 확인
+    # 남은 음식 중에서 몇 번째 음식인지 확인
     target = k - sum_value + 1
     length = len(heap)
     temp = (target - 1) // length
