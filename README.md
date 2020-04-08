@@ -104,8 +104,6 @@ Language: Python3 / Oracle<br>
 
 
 ## [Programmers](https://programmers.co.kr/)
-##### Basis
-##### 문자열
 ##### 자료구조 - 해시/스택/큐/힙
 - [완주하지못한선수](Programmers/42576.py)
 - [전화번호 목록](Programmers/42577.py)
@@ -132,7 +130,6 @@ Language: Python3 / Oracle<br>
 - [카펫](Programmers/42842.py)
 - [예산](Programmers/43237.py)
 - [입국심사](Programmers/43238.py)
-##### 트리
 ##### DP
 - [N으로 표현](Programmers/42895.py)
 - [타일 장식물](Programmers/43104.py)
@@ -145,7 +142,6 @@ Language: Python3 / Oracle<br>
 - [여행경로](Programmers/43164.py)
 ##### 그래프 - 최단경로
 - [가장 먼 노드](Programmers/49189.py)
-##### 그래프 - MST
 ##### 그리디
 - [체육복](Programmers/42862.py)
 - [조이스틱](Programmers/42860.py)
@@ -154,7 +150,6 @@ Language: Python3 / Oracle<br>
 - [섬 연결하기](Programmers/42861.py)
 - [단속 카메라](Programmers/42884.py)
 - [저울](Programmers/42886.py)
-##### 백트래킹
 
 
 ##[Programmers SQL](https://programmers.co.kr/learn/challenges?tab=sql_practice_kit)
