@@ -227,7 +227,7 @@ Language: Python3 / Oracle<br><br>
 - [3번](Kakao2019/3.py) *
 - [4번](Kakao2019/4.py) *
 - [5번](Kakao2019/5.py) *
-- [6번](Kakao2019/6.py) 
+- [6번](Kakao2019/6.py) *
 - [7번](Kakao2019/7.py)
 
 
