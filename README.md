@@ -228,7 +228,7 @@ Language: Python3 / Oracle<br><br>
 - [4번](Kakao2019/4.py) *
 - [5번](Kakao2019/5.py) *
 - [6번](Kakao2019/6.py) *
-- [7번](Kakao2019/7.py)
+- [7번](Kakao2019/7.py) *
 
 
 ## [Kakao 2020 공채 1차](https://programmers.co.kr/learn/challenges?tab=all_challenges)
