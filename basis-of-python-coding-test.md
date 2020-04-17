@@ -150,6 +150,8 @@ Python을 이용한 코딩 테스트 문제 해결을 위한 노하우와 유형
   - itertools.combinations_with_replacement(p, r): iterable 객체 p에 대해 r만큼의 길이에 대한 순서가 없고 중복은 있는 조합을 리턴
 - `itertools.permutations`
   - itertools.permutations(p, r): iterable 객체 p에 대해 r만큼의 길이에 대한 순서가 있고 중복도 있는 순열을 리턴
+- `itertools.chain`
+  - itertools.chain.from_iterable(p): iterable 객체 p에 대해서 N차원 iterable 객체를 1차원으로 바꾸고 리턴
 
 
 ### Python 유용한 내장 함수
