@@ -7,6 +7,7 @@ Language: Python3 / Oracle<br><br>
 - BOJ(solved.ac) : Bronze - 20분, Silver - 40분, Gold - 60분
 - Programmers : L1 - 20분, L2 - 40분, L3 - 60분
 - LeetCode : Easy - 30분, Medium - 50분
+- Kakao : 40분
 
 ## [BOJ](https://www.acmicpc.net/)
 ##### Basis
@@ -102,6 +103,57 @@ Language: Python3 / Oracle<br><br>
 - [1987](BOJ/1987.py) *
 - [1759](BOJ/1759.py) *
 
+## [Programmers 모의테스트](https://programmers.co.kr/learn/courses/18)
+- [1번](Programmers-semi-test/1.py)
+- [2번](Programmers-semi-test/2.py)
+- [3번](Programmers-semi-test/3.py)
+- [4번](Programmers-semi-test/4.py)
+- [5번](Programmers-semi-test/5.py)
+- [6번](Programmers-semi-test/6.py)
+- [7번](Programmers-semi-test/7.py)
+
+## [Kakao 2018 공채 1차](https://programmers.co.kr/learn/challenges?tab=all_challenges)
+- [1번](Kakao2018/1.py)
+- [2번](Kakao2018/2.py) *
+- [3번](Kakao2018/3.py)
+- [4번](Kakao2018/4.py) *
+- [5번](Kakao2018/5.py)
+- [6번](Kakao2018/6.py) *
+- [7번](Kakao2018/7.py) *
+
+## [Kakao 2018 공채 3차](https://programmers.co.kr/learn/challenges?tab=all_challenges)
+- [1번](Kakao2018-3/1.py)
+- [2번](Kakao2018-3/2.py)
+- [3번](Kakao2018-3/3.py)
+- [4번](Kakao2018-3/4.py)
+- [5번](Kakao2018-3/5.py)
+- [6번](Kakao2018-3/6.py)
+- [7번](Kakao2018-3/7.py)
+
+## [Kakao 2019 공채 1차](https://programmers.co.kr/learn/challenges?tab=all_challenges)
+- [1번](Kakao2019/1.py)
+- [2번](Kakao2019/2.py)
+- [3번](Kakao2019/3.py) *
+- [4번](Kakao2019/4.py) *
+- [5번](Kakao2019/5.py) *
+- [6번](Kakao2019/6.py) *
+- [7번](Kakao2019/7.py) *
+
+## [Kakao 2020 공채 1차](https://programmers.co.kr/learn/challenges?tab=all_challenges)
+- [1번](Kakao2020/1.py) *
+- [2번](Kakao2020/2.py) *
+- [3번](Kakao2020/3.py) 
+- [4번](Kakao2020/4.py)
+- [5번](Kakao2020/5.py)
+- [6번](Kakao2020/6.py)
+- [7번](Kakao2020/7.py)
+
+## [Kakao 2020 겨울 인턴십](https://programmers.co.kr/learn/challenges?tab=all_challenges)
+- [1번](Kakao2020-winter/1.py)
+- [2번](Kakao2020-winter/2.py)
+- [3번](Kakao2020-winter/3.py)
+- [4번](Kakao2020-winter/4.py)
+- [5번](Kakao2020-winter/5.py)
 
 ## [Programmers](https://programmers.co.kr/)
 ##### 자료구조 - 해시/스택/큐/힙
@@ -151,7 +203,6 @@ Language: Python3 / Oracle<br><br>
 - [단속 카메라](Programmers/42884.py)
 - [저울](Programmers/42886.py)
 
-
 ## [Programmers SQL](https://programmers.co.kr/learn/challenges?tab=sql_practice_kit)
 ##### SELECT
 - [모든 레코드 조회하기](Programmers-SQL/59034.sql)
@@ -161,89 +212,26 @@ Language: Python3 / Oracle<br><br>
 - [동물의 아이디와 이름](Programmers-SQL/59403.sql)
 - [여러 기준으로 정렬하기](Programmers-SQL/59404.sql)
 - [상위 N개 레코드](Programmers-SQL/59405.sql)
-
 ##### SUM,MAX,MIN
 - [최대값 구하기](Programmers-SQL/59415.sql)
 - [최솟값 구하기](Programmers-SQL/59038.sql)
 - [동물 수 구하기](Programmers-SQL/59406.sql)
 - [중복 제거하기](Programmers-SQL/59408.sql)
-
 ##### GROUP BY
 - [고양이와 개는 몇 마리 있을까](Programmers-SQL/59040.sql)
 - [동명 동물 수 찾기](Programmers-SQL/59041.sql)
 - [입양 시각 구하기(1)](Programmers-SQL/59412.sql)
-
 ##### IS NULL
 - [이름이 없는 동물의 아이디](Programmers-SQL/59039.sql)
 - [이름이 있는 동물의 아이디](Programmers-SQL/59407.sql)
 - [NULL 처리하기](Programmers-SQL/59410.sql)
- 
 ##### JOIN
 - [없어진 기록 찾기](Programmers-SQL/59042.sql)
 - [있었는데요 없었습니다](Programmers-SQL/59043.sql)
 - [오랜 기간 보호한 동물(1)](Programmers-SQL/59044.sql)
-
 ##### String, Date
 - [루시와 엘라 찾기](Programmers-SQL/59046.sql)
 - [이름에 el이 들어가는 동물 찾기](Programmers-SQL/59047.sql)
 - [중성화 여부 파악하기](Programmers-SQL/59409.sql)
 - [오랜 기간 보호한 동물(2)](Programmers-SQL/59411.sql)
 - [DATIME에서 DATE로 형 변환](Programmers-SQL/59414.sql)
-
-
-## [Programmers 모의테스트](https://programmers.co.kr/learn/courses/18)
-- [1번](Programmers-semi-test/1.py)
-- [2번](Programmers-semi-test/2.py)
-- [3번](Programmers-semi-test/3.py)
-- [4번](Programmers-semi-test/4.py)
-- [5번](Programmers-semi-test/5.py)
-- [6번](Programmers-semi-test/6.py)
-- [7번](Programmers-semi-test/7.py)
-
-
-## [Kakao 2018 공채 1차](https://programmers.co.kr/learn/challenges?tab=all_challenges)
-- [1번](Kakao2018/1.py)
-- [2번](Kakao2018/2.py) *
-- [3번](Kakao2018/3.py)
-- [4번](Kakao2018/4.py) *
-- [5번](Kakao2018/5.py)
-- [6번](Kakao2018/6.py) *
-- [7번](Kakao2018/7.py) *
-
-
-## [Kakao 2018 공채 3차](https://programmers.co.kr/learn/challenges?tab=all_challenges)
-- [1번](Kakao2018-3/1.py)
-- [2번](Kakao2018-3/2.py)
-- [3번](Kakao2018-3/3.py)
-- [4번](Kakao2018-3/4.py)
-- [5번](Kakao2018-3/5.py)
-- [6번](Kakao2018-3/6.py)
-- [7번](Kakao2018-3/7.py)
-
-
-## [Kakao 2019 공채 1차](https://programmers.co.kr/learn/challenges?tab=all_challenges)
-- [1번](Kakao2019/1.py)
-- [2번](Kakao2019/2.py)
-- [3번](Kakao2019/3.py) *
-- [4번](Kakao2019/4.py) *
-- [5번](Kakao2019/5.py) *
-- [6번](Kakao2019/6.py) *
-- [7번](Kakao2019/7.py) *
-
-
-## [Kakao 2020 공채 1차](https://programmers.co.kr/learn/challenges?tab=all_challenges)
-- [1번](Kakao2020/1.py)
-- [2번](Kakao2020/2.py)
-- [3번](Kakao2020/3.py)
-- [4번](Kakao2020/4.py)
-- [5번](Kakao2020/5.py)
-- [6번](Kakao2020/6.py)
-- [7번](Kakao2020/7.py)
-
-
-## [Kakao 2020 겨울 인턴십](https://programmers.co.kr/learn/challenges?tab=all_challenges)
-- [1번](Kakao2020-winter/1.py)
-- [2번](Kakao2020-winter/2.py)
-- [3번](Kakao2020-winter/3.py)
-- [4번](Kakao2020-winter/4.py)
-- [5번](Kakao2020-winter/5.py)
