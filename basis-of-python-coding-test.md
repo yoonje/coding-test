@@ -19,7 +19,6 @@ Python을 이용한 코딩 테스트 문제 해결을 위한 노하우와 유형
 5. 주어진 Test Case 이외의 Test Case를 추가할 때는 입력에서 극단적으로 줄 수 있는 경우의 수를 반드시 추가합니다.
 
 
-
 ### Python 자료형
 - Python의 integer, boolean, string, float는 immutable한 single 데이터 타입입니다.
 - Python의 list, dictionary, set은 mutable한 container 데이터 타입입니다.
@@ -35,6 +34,7 @@ Python을 이용한 코딩 테스트 문제 해결을 위한 노하우와 유형
 - Python의 sort() 함수는 객체의 메서드이고 sorted()는 내장 함수입니다.
 - Python의 리스트의 슬라이싱을 통해 insert() 함수 및 remove() 함수를 효율적으로 쓸 수 있습니다.
 - Python의 집합은 중복 체크에서 유용하나 집합 연산의 복잡도가 크므로 주의해서 사용해야합니다.
+
 
 ### List(Vector)
 - 리스트는 파이썬의 내장 자료형으로 이름과 달리 내부적으로는 Linked List 방식이 아닌 벡터 형태를 띄고 있는 동적 배열이다.
@@ -136,15 +136,31 @@ Python을 이용한 코딩 테스트 문제 해결을 위한 노하우와 유형
   - set.isdisjoint(set2): set과 set2 사이에 교집합이 있으면 True 없으면 False를 리턴한다.
 
 
+### Python 유용한 외장 모듈
+- `copy`
+  - 변수 = copy.deepcopy(객체): 객체 간의 깊은 복사를 이용할 때 사용한다.
+- `clollections.defaultdict`
+  - dict의 하위 클래스로 key에 대한 value가 없을 때 default값을 자동으로 넣어 주는 모듈
+  - default(list): value가 기본으로 list이기 때문에 객체[key].append()를 활용해서 값 추가  
+  - default(set): value가 기본으로 set이기 때문에 객체[key].add()를 활용해서 값 추가 
+  - default(int): key에 대한 값이 없을 때 기본으로 0으로 초기화
+- `itertools.combinations`
+  - itertools.combinations(p, r): iterable 객체 p에 대해 r만큼의 길이에 대한 순서가 없고 중복도 없는 조합을 리턴
+- `itertools.combinations_with_replacement`
+  - itertools.combinations_with_replacement(p, r): iterable 객체 p에 대해 r만큼의 길이에 대한 순서가 없고 중복은 있는 조합을 리턴
+- `itertools.permutations`
+  - itertools.permutations(p, r): iterable 객체 p에 대해 r만큼의 길이에 대한 순서가 있고 중복도 있는 순열을 리턴
+
+
 ### Python 유용한 내장 함수
- - sort(객체,Key=?,reverse=?): 객체를 내부적으로 정렬한다. Key 함수를 통해서 정렬 옵션을 선택할 수 있고 reverse 매개변수를 통해서 True는 내림차순, False는 오름차순으로 정할 수 있다.
+ - 객체.sort(Key=?,reverse=?): 객체를 내부적으로 정렬한다. Key 함수를 통해서 정렬 옵션을 선택할 수 있고 reverse 매개변수를 통해서 True는 내림차순, False는 오름차순으로 정할 수 있다.
  - sorted(객체,Key=?,reverse=?): 객체를 내부적으로 정렬한 뒤 리턴한다. Key 함수를 통해서 정렬 옵션을 선택할 수 있고 reverse 매개변수를 통해서 True는 내림차순, False는 오름차순으로 정할 수 있다.
  - min(객체): 갹체 안에서 최소 값을 리턴한다. Key 함수를 통해서 탐색 옵션을 선택할 수 있다.
  - max(객체): 객체 안에서 최대 값을 리턴한다. Key 함수를 통해서 탐색 옵션을 선택할 수 있다.
  - len(객체): 객체의 전체 길이를 리턴한다.
+ - a,b = divmod(int,int): 몫과 나머지를 한번에 리턴한다.
  - del 객체: 파이썬의 모든 자료 형은 객체인데 이 객체를 삭제한다.
  - 객체.clear(): 객체를 삭제한다.
- - 변수 = copy.deepcopy(객체): 객체 간의 깊은 복사를 이용할 때 사용한다.
 
 
 ### Python 정규표현식
@@ -160,6 +176,7 @@ Python을 이용한 코딩 테스트 문제 해결을 위한 노하우와 유형
   - match.start(): 매치된 문자열의 시작 위치를 리턴한다.
   - match.end(): 매치된 문자열의 종료 위치를 리턴한다.
   - match.span(): 매치된 문자열의 (시작,종료)를 튜틀로 리턴한다.
+
 
 ### 자료구조(배열, 스택, 큐, 힙, 해시) 문제 Tip
 - Python의 Set과 Dictionary를 이용하면 해시처럼 사용할 수 있습니다.
