@@ -29,4 +29,5 @@ def solution(s):
                 len_cand += len(str(res[k][0]))
                 len_cand += len(res[k][1])
         answer = min(answer, len_cand)
+
     return answer
