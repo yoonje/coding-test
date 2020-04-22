@@ -36,6 +36,29 @@ Python을 이용한 코딩 테스트 문제 해결을 위한 노하우와 유형
 - Python의 집합은 중복 체크에서 유용하나 집합 연산의 복잡도가 크므로 주의해서 사용해야합니다.
 
 
+### String
+- 문자열은 파이썬의 내장 자료형으로 문자나 문자열을 이용할 때 사용한다.
+- 생성 관련 함수
+  - str(): 비어있는 문자열을 생성한다.
+  - "": 비어있는 문자열을 생성한다.
+- 삽입 관련 함수
+  - str.replace(a,b): a라는 문자열을 b라는 문자열로 바꾼다.
+  - str.join(str2): str2의 각 사이사이에 str을 삽입하고 리턴한다.
+   - str + str2: str과 str2를 더하고 반환한다.
+- 참조 관련 함수
+  - str[idx]: 해당 인덱스에 있는 문자열의 원소를 리턴한다.
+- 탐색 관련 함수
+  - str.index(a): a라는 문자가 있으면 그 값의 위치 인덱스를 리턴한다.
+  - str.find(a): a라는 문자열을 찾고 인덱스를 리턴한다.
+- 기타 함수
+  - str.count(a): a라는 문자가 몇개 있는지 개수를 리턴한다.
+  - str(객체): 객체를 문자열로 형변환한다.
+  - str[start:end]: start ~ end에 있는 문자열의 원소를 리턴한다.
+  - str.upper(): str을 대문자로 변환한다.
+  - str.lower(): str을 소문자로 변환한다.
+  - str.strip(a): 문자열의 양 끝에 a라는 값을 삭제한다. 
+  - str.split(구분자): 구분자를 기준으로 문자열을 나누고 리스트로 쪼갠 이후 리턴한다.
+  
 ### List(Vector)
 - 리스트는 파이썬의 내장 자료형으로 이름과 달리 내부적으로는 Linked List 방식이 아닌 벡터 형태를 띄고 있는 동적 배열이다.
 - 파이썬에도 linked list를 라이브러리로 사용할 수 있으나 일반적으로 linked list보다 list(vector)가 일반적으로 성능이 더 좋기 때문에 linked list는 본 문서에서는 따로 설명하지 않을 것이다.
@@ -45,6 +68,7 @@ Python을 이용한 코딩 테스트 문제 해결을 위한 노하우와 유형
 - 삽입 관련 함수
   - list.append(a): a를 list의 맨 뒤에 삽입한다.
   - list.insert(a,b): a번째 위치에 b를 삽입한다.
+  - list + list2: list와 list2를 더하고 반환한다.
 - 삭제 관련 함수
   - list.remove(a): 앞에서부터 탐색해가며 a라는 값이 나오면 삭제한다.
   - list.pop(): list의 맨 마지막 값을 삭제하고 리턴한다.
@@ -53,6 +77,8 @@ Python을 이용한 코딩 테스트 문제 해결을 위한 노하우와 유형
 - 탐색 관련 함수
   - list.index(a): a라는 값이 있으면 그 값의 위치 인덱스를 리턴한다.
 - 기타 함수
+  - list(객체): iterable 객체를 리스트로 형변환한다.
+  - list[start:end]: start ~ end에 있는 리스트의 원소를 리턴한다.
   - list.reverse(): 리스트를 역순으로 뒤집는다.
   - list.count(a): 리스트 안에 a가 몇개 들어 있는지 카운트한다.
   - list.extend(list2): list에 list2를 이어 확장한다.
@@ -128,6 +154,7 @@ Python을 이용한 코딩 테스트 문제 해결을 위한 노하우와 유형
   - set.remove(a): set에서 a를 삭제하는데 a가 set에 존재하지 않으면 예외를 일으킨다.
   - set.discard(a): set에서 a를 삭제하는데 a가 set에 존재하지 않아도 예외를 일으키지 않는다.
 - 기타 함수
+  - set(객체): iterable 객체를 집합으로 형변환한다.
   - set | set2: set와 set2의 합집합을 리턴한다.
   - set & set2: set와 set2의 교집합을 리턴한다.
   - set - set2: set와 set2의 차집합을 리턴한다.
