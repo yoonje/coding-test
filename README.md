@@ -143,10 +143,10 @@ Language: Python3 / Oracle<br><br>
 - [1번](Kakao2020/1.py) *
 - [2번](Kakao2020/2.py) *
 - [3번](Kakao2020/3.py) *
-- [4번](Kakao2020/4.py) *
+- [4번](Kakao2020/4.py) **
 - [5번](Kakao2020/5.py) *
-- [6번](Kakao2020/6.py)
-- [7번](Kakao2020/7.py)
+- [6번](Kakao2020/6.py) *
+- [7번](Kakao2020/7.py) *
 
 ## [Kakao 2020 겨울 인턴십](https://programmers.co.kr/learn/challenges?tab=all_challenges)
 - [1번](Kakao2020-winter/1.py)
