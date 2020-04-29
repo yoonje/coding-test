@@ -19,8 +19,6 @@ def solution(n, t, m, p):
         value += 1
     values = "".join(value_list)
     result = []
-    print(value_list)
-    print(values)
     for i in range(len(values)):
         if i % m == p - 1:
             result.append(values[i])
