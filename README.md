@@ -113,7 +113,7 @@ Language: Python3 / Oracle<br><br>
 - [7번](Kakao2018/7.py) *
 
 ## [Kakao 2018 공채 3차](https://programmers.co.kr/learn/challenges?tab=all_challenges)
-- [1번](Kakao2018-3/1.py)
+- [1번](Kakao2018-3/1.py) **
 - [2번](Kakao2018-3/2.py)
 - [3번](Kakao2018-3/3.py)
 - [4번](Kakao2018-3/4.py)
