@@ -1,53 +1,51 @@
-checked = set()
-
-
 def get_possible_block(board, i, j):
     try:
         if (board[i + 1][j] == board[i][j] and
                 board[i + 1][j + 1] == board[i][j] and
                 board[i + 1][j + 2] == board[i][j]):
-            return ((i, j + 1), (i, j + 2), board[i][j])
+            return (i, j + 1), (i, j + 2), board[i][j]
     except:
         pass
     try:
         if (board[i + 1][j] == board[i][j] and
                 board[i + 2][j] == board[i][j] and
                 board[i + 2][j - 1] == board[i][j]):
-            return ((i, j - 1), (i + 1, j - 1), board[i][j])
+            return (i, j - 1), (i + 1, j - 1), board[i][j]
     except:
         pass
     try:
         if (board[i + 1][j] == board[i][j] and
                 board[i + 2][j] == board[i][j] and
                 board[i + 2][j + 1] == board[i][j]):
-            return ((i, j + 1), (i + 1, j + 1), board[i][j])
+            return (i, j + 1), (i + 1, j + 1), board[i][j]
     except:
         pass
     try:
         if (board[i + 1][j] == board[i][j] and
                 board[i + 1][j - 1] == board[i][j] and
                 board[i + 1][j - 2] == board[i][j]):
-            return ((i, j - 1), (i, j - 2), board[i][j])
+            return (i, j - 1), (i, j - 2), board[i][j]
     except:
         pass
     try:
         if (board[i + 1][j - 1] == board[i][j] and
                 board[i + 1][j] == board[i][j] and
                 board[i + 1][j + 1] == board[i][j]):
-            return ((i, j - 1), (i, j + 1), board[i][j])
+            return (i, j - 1), (i, j + 1), board[i][j]
     except:
         pass
     return None
 
 
 def preprocess(board):
+    checked = set()
     list = []
     for i in range(len(board)):
         for j in range(len(board[0])):
             if board[i][j] != 0 and board[i][j] not in checked:
                 checked.add(board[i][j])
                 type = get_possible_block(board, i, j)
-                if type != None:
+                if type is not None:
                     list.append(type)
     return list
 
@@ -66,11 +64,9 @@ def remove(board, k):
                 board[i][j] = 0
 
 
-removed = set()
-
-
 def solution(board):
     answer = 0
+    removed = set()
     list = preprocess(board)  # 지워질 가능성이 있는 블럭만 남기기
     while True:
         check = False
