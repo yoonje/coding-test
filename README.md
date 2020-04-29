@@ -103,15 +103,6 @@ Language: Python3 / Oracle<br><br>
 - [1987](BOJ/1987.py) *
 - [1759](BOJ/1759.py) *
 
-## [Programmers 모의테스트](https://programmers.co.kr/learn/courses/18)
-- [1번](Programmers-semi-test/1.py)
-- [2번](Programmers-semi-test/2.py)
-- [3번](Programmers-semi-test/3.py)
-- [4번](Programmers-semi-test/4.py)
-- [5번](Programmers-semi-test/5.py)
-- [6번](Programmers-semi-test/6.py)
-- [7번](Programmers-semi-test/7.py)
-
 ## [Kakao 2018 공채 1차](https://programmers.co.kr/learn/challenges?tab=all_challenges)
 - [1번](Kakao2018/1.py)
 - [2번](Kakao2018/2.py) *
@@ -144,7 +135,7 @@ Language: Python3 / Oracle<br><br>
 - [2번](Kakao2020/2.py) *
 - [3번](Kakao2020/3.py) *
 - [4번](Kakao2020/4.py) **
-- [5번](Kakao2020/5.py) *
+- [5번](Kakao2020/5.py) **
 - [6번](Kakao2020/6.py) *
 - [7번](Kakao2020/7.py) *
 
@@ -154,6 +145,15 @@ Language: Python3 / Oracle<br><br>
 - [3번](Kakao2020-winter/3.py)
 - [4번](Kakao2020-winter/4.py)
 - [5번](Kakao2020-winter/5.py)
+
+## [Programmers 모의테스트](https://programmers.co.kr/learn/courses/18)
+- [1번](Programmers-semi-test/1.py)
+- [2번](Programmers-semi-test/2.py)
+- [3번](Programmers-semi-test/3.py)
+- [4번](Programmers-semi-test/4.py)
+- [5번](Programmers-semi-test/5.py)
+- [6번](Programmers-semi-test/6.py)
+- [7번](Programmers-semi-test/7.py)
 
 ## [Programmers](https://programmers.co.kr/)
 ##### 자료구조 - 해시/스택/큐/힙
