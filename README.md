@@ -116,7 +116,7 @@ Language: Python3 / Oracle<br><br>
 - [1번](Kakao2018-3/1.py) **
 - [2번](Kakao2018-3/2.py)
 - [3번](Kakao2018-3/3.py)
-- [4번](Kakao2018-3/4.py)
+- [4번](Kakao2018-3/4.py) *
 - [5번](Kakao2018-3/5.py) **
 
 ## [Kakao 2019 공채 1차](https://programmers.co.kr/learn/challenges?tab=all_challenges)
