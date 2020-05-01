@@ -26,7 +26,6 @@ def check_process_num(time, lst):
 
 
 def solution(lines):
-    answer = 0
     lst = []
     count = []
     for string in lines:
