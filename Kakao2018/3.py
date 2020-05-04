@@ -9,7 +9,7 @@ def solution(cacheSize, cities):
         if item not in cache_db:
             if len(cache_db) < cacheSize:
                 cache_db.append(item)
-            elif cacheSize == 0 :
+            elif cacheSize == 0:
                 pass
             else:
                 cache_db.popleft()
