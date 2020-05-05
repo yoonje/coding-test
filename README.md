@@ -140,7 +140,7 @@ Language: Python3 / Oracle<br><br>
 ## [Kakao 2020 겨울 인턴십](https://programmers.co.kr/learn/challenges?tab=all_challenges)
 - [1번](Kakao2020-winter-internship/1.py)
 - [2번](Kakao2020-winter-internship/2.py)
-- [3번](Kakao2020-winter-internship/3.py)
+- [3번](Kakao2020-winter-internship/3.py) *
 - [4번](Kakao2020-winter-internship/4.py)
 - [5번](Kakao2020-winter-internship/5.py)
 
