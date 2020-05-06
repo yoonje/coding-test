@@ -153,7 +153,7 @@ Language: Python3 / Oracle<br><br>
 - [6번](Programmers-semi-test/6.py)
 - [7번](Programmers-semi-test/7.py)
 
-## [Programmers](https://programmers.co.kr/)
+## [Programmers](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
 ##### 자료구조 - 해시/스택/큐/힙
 - [완주하지 못한 선수](Programmers/42576.py)
 - [전화번호 목록](Programmers/42577.py)
