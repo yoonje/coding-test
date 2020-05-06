@@ -232,4 +232,4 @@ Language: Python3 / Oracle<br><br>
 - [이름에 el이 들어가는 동물 찾기](Programmers-SQL/59047.sql)
 - [중성화 여부 파악하기](Programmers-SQL/59409.sql)
 - [오랜 기간 보호한 동물(2)](Programmers-SQL/59411.sql)
-- [DATIME에서 DATE로 형 변환](Programmers-SQL/59414.sql)
+- [DATETIME에서 DATE로 형 변환](Programmers-SQL/59414.sql)
