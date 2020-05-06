@@ -19,6 +19,3 @@ def solution(k, room_number):
         empty_room = find_empty_room(room, room_dict)
         answer.append(empty_room)
     return answer
-
-
-print(solution(10, [1, 3, 4, 1, 3, 1]))  # [1,3,4,2,5,6]
