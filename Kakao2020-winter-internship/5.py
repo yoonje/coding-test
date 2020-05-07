@@ -23,7 +23,3 @@ def solution(stones, k):
         else:
             max_n = mid - 1
     return answer
-
-
-print(solution([2, 4, 5, 3, 2, 1, 4, 2, 5, 1], 3))  # 3
-print(solution([2, 4, 5, 3, 2, 1, 4, 2, 5, 1], 1))  # 1
