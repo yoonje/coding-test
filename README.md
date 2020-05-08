@@ -151,7 +151,7 @@ Language: Python3 / Oracle<br><br>
 - [4번](Programmers-semi-test/4.py) **
 - [5번](Programmers-semi-test/5.py) **
 - [6번](Programmers-semi-test/6.py) **
-- [7번](Programmers-semi-test/7.py)
+- [7번](Programmers-semi-test/7.py) **
 
 ## [Programmers](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
 ##### 자료구조 - 해시/스택/큐/힙
