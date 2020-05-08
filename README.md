@@ -149,8 +149,8 @@ Language: Python3 / Oracle<br><br>
 - [2번](Programmers-semi-test/2.py)
 - [3번](Programmers-semi-test/3.py)
 - [4번](Programmers-semi-test/4.py) **
-- [5번](Programmers-semi-test/5.py)
-- [6번](Programmers-semi-test/6.py)
+- [5번](Programmers-semi-test/5.py) **
+- [6번](Programmers-semi-test/6.py) 
 - [7번](Programmers-semi-test/7.py)
 
 ## [Programmers](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
