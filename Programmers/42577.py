@@ -9,6 +9,3 @@ def solution(phone_book):
                 return False
     return True
 
-
-print(solution(["1195524421", "119", "97674223"]))  # false
-print(solution(["123", "456", "789"]))  # true
