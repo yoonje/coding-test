@@ -193,7 +193,7 @@ Language: Python3 / Oracle<br><br>
 ##### 그래프 - 최단경로
 - [가장 먼 노드](Programmers/49189.py)
 ##### 그리디
-- [체육복](Programmers/42862.py)
+- [체육복](Programmers/42862.py) *
 - [조이스틱](Programmers/42860.py)
 - [큰 수 만들기](Programmers/42883.py)
 - [구명보트](Programmers/42885.py)
