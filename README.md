@@ -171,7 +171,7 @@ Language: Python3 / Oracle<br><br>
 - [이중 우선 순위 큐](Programmers/42628.py)
 ##### 정렬
 - [K번째 수](Programmers/42748.py)
-- [가장 큰 수](Programmers/42746.py)
+- [가장 큰 수](Programmers/42746.py) *
 - [H-Index](Programmers/42747.py)
 ##### 탐색 - 완전탐색/이분탐색
 - [모의고사](Programmers/42840.py)
