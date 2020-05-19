@@ -157,7 +157,7 @@ Language: Python3 / Oracle<br><br>
 ##### 자료구조 - 해시/스택/큐/힙
 - [완주하지 못한 선수](Programmers/42576.py)
 - [전화번호 목록](Programmers/42577.py)
-- [위장](Programmers/42578.py)
+- [위장](Programmers/42578.py) *
 - [베스트 앨범](Programmers/42579.py)
 - [탑](Programmers/42588.py)
 - [다리를 지나는 트럭](Programmers/42583.py)
