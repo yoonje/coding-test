@@ -1,5 +1,5 @@
 # Practice for Coding Test
-코딩 테스트 준비를 위해 정리한 맞힌 문제, 제한 시간 이후에 맞힌 문제\(\*\), 못 맞힌 문제(**) 리스트 및 솔루션 코드 정리 자료
+코딩 테스트 준비를 위해 정리한 맞힌 문제, 제한 시간 이후에 맞힌 문제\(\*), 부분 문제만 맞힌 문제(\*\*), 못 맞힌 문제(\*\*\*) 리스트 및 솔루션 코드 정리 자료
 
 ## Additional Info
 Language: Python3 / Oracle<br><br>
@@ -171,7 +171,7 @@ Language: Python3 / Oracle<br><br>
 - [이중 우선 순위 큐](Programmers/42628.py)
 ##### 정렬
 - [K번째 수](Programmers/42748.py)
-- [가장 큰 수](Programmers/42746.py) *
+- [가장 큰 수](Programmers/42746.py) **
 - [H-Index](Programmers/42747.py)
 ##### 탐색 - 완전탐색/이분탐색
 - [모의고사](Programmers/42840.py)
