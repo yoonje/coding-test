@@ -1,5 +1,5 @@
 # Practice for Coding Test
-코딩 테스트 준비를 위해 정리한 맞힌 문제, 제한 시간 이후에 맞힌 문제\(\*), 부분 문제만 맞힌 문제(\*\*), 못 맞힌 문제(\*\*\*) 리스트 및 솔루션 코드 정리 자료
+코딩 테스트 준비를 위해 정리한 맞힌 문제, 제한 시간 이후에 맞힌 문제\(\*), 부분 케이스만 맞힌 문제(\*\*), 못 맞힌 문제(\*\*\*) 리스트 및 솔루션 코드 정리 자료
 
 ## Additional Info
 Language: Python3 / Oracle<br><br>
@@ -165,7 +165,7 @@ Language: Python3 / Oracle<br><br>
 - [프린터](Programmers/42587.py)
 - [쇠막대기](Programmers/42585.py)
 - [주식가격](Programmers/42584.py)
-- [더 맵게](Programmers/42626.py)
+- [더 맵게](Programmers/42626.py) **
 - [라면공장](Programmers/42629.py)
 - [디스크 컨트롤러](Programmers/42627.py)
 - [이중 우선 순위 큐](Programmers/42628.py)
