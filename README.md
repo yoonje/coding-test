@@ -62,15 +62,15 @@ Language: Python3 / Oracle<br><br>
 - [1904](BOJ/1904.py)
 - [12865](BOJ/12865.py) *
 - [11053](BOJ/11053.py) *
-- [9251](BOJ/9251.py) *
-- [1495](BOJ/1495.py) *
-- [2655](BOJ/2655.py) **
-- [1932](BOJ/1932.py) *
-- [11055](BOJ/11055.py) *
-- [2167](BOJ/2167.py) *
-- [1915](BOJ/1915.py) *
+- [9251](BOJ/9251.py) **
+- [1495](BOJ/1495.py) **
+- [2655](BOJ/2655.py) ***
+- [1932](BOJ/1932.py) **
+- [11055](BOJ/11055.py) **
+- [2167](BOJ/2167.py) **
+- [1915](BOJ/1915.py) **
 - [12849](BOJ/12849.py)
-- [11066](BOJ/11066.py) **
+- [11066](BOJ/11066.py) ***
 ##### 그래프 - BFS/DFS
 - [1260](BOJ/1260.py) *
 - [1697](BOJ/1697.py) *
@@ -181,7 +181,7 @@ Language: Python3 / Oracle<br><br>
 - [예산](Programmers/43237.py)
 - [입국심사](Programmers/43238.py)
 ##### DP
-- [N으로 표현](Programmers/42895.py)
+- [N으로 표현](Programmers/42895.py) ***
 - [타일 장식물](Programmers/43104.py)
 - [정수 삼각형](Programmers/43105.py)
 - [등굣길](Programmers/42898.py)
