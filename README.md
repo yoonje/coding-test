@@ -157,7 +157,7 @@ Language: Python3 / Oracle<br><br>
 ##### 자료구조 - 해시/스택/큐/힙
 - [완주하지 못한 선수](Programmers/42576.py)
 - [전화번호 목록](Programmers/42577.py)
-- [위장](Programmers/42578.py) *
+- [위장](Programmers/42578.py) 
 - [베스트 앨범](Programmers/42579.py)
 - [탑](Programmers/42588.py)
 - [다리를 지나는 트럭](Programmers/42583.py)
@@ -165,13 +165,13 @@ Language: Python3 / Oracle<br><br>
 - [프린터](Programmers/42587.py)
 - [쇠막대기](Programmers/42585.py)
 - [주식가격](Programmers/42584.py)
-- [더 맵게](Programmers/42626.py) **
+- [더 맵게](Programmers/42626.py)
 - [라면공장](Programmers/42629.py)
 - [디스크 컨트롤러](Programmers/42627.py)
 - [이중 우선 순위 큐](Programmers/42628.py)
 ##### 정렬
 - [K번째 수](Programmers/42748.py)
-- [가장 큰 수](Programmers/42746.py) **
+- [가장 큰 수](Programmers/42746.py)
 - [H-Index](Programmers/42747.py)
 ##### 탐색 - 완전탐색/이분탐색
 - [모의고사](Programmers/42840.py)
@@ -181,7 +181,7 @@ Language: Python3 / Oracle<br><br>
 - [예산](Programmers/43237.py)
 - [입국심사](Programmers/43238.py)
 ##### DP
-- [N으로 표현](Programmers/42895.py) ***
+- [N으로 표현](Programmers/42895.py)
 - [타일 장식물](Programmers/43104.py)
 - [정수 삼각형](Programmers/43105.py)
 - [등굣길](Programmers/42898.py)
@@ -189,47 +189,14 @@ Language: Python3 / Oracle<br><br>
 - [타겟 넘버](Programmers/43165.py)
 - [네트워크](Programmers/43162.py)
 - [단어 변환](Programmers/43163.py)
-- [여행경로](Programmers/43164.py) **
+- [여행경로](Programmers/43164.py)
 ##### 그래프 - 최단경로
 - [가장 먼 노드](Programmers/49189.py)
 ##### 그리디
-- [체육복](Programmers/42862.py) *
+- [체육복](Programmers/42862.py)
 - [조이스틱](Programmers/42860.py)
 - [큰 수 만들기](Programmers/42883.py)
 - [구명보트](Programmers/42885.py)
 - [섬 연결하기](Programmers/42861.py)
 - [단속 카메라](Programmers/42884.py)
 - [저울](Programmers/42886.py)
-
-## [Programmers SQL](https://programmers.co.kr/learn/challenges?tab=sql_practice_kit)
-##### SELECT
-- [모든 레코드 조회하기](Programmers-SQL/59034.sql)
-- [역순 정렬하기](Programmers-SQL/59035.sql)
-- [아픈 동물 찾기](Programmers-SQL/59036.sql)
-- [어린 동물 찾기](Programmers-SQL/59037.sql)
-- [동물의 아이디와 이름](Programmers-SQL/59403.sql)
-- [여러 기준으로 정렬하기](Programmers-SQL/59404.sql)
-- [상위 N개 레코드](Programmers-SQL/59405.sql)
-##### SUM,MAX,MIN
-- [최대값 구하기](Programmers-SQL/59415.sql)
-- [최솟값 구하기](Programmers-SQL/59038.sql)
-- [동물 수 구하기](Programmers-SQL/59406.sql)
-- [중복 제거하기](Programmers-SQL/59408.sql)
-##### GROUP BY
-- [고양이와 개는 몇 마리 있을까](Programmers-SQL/59040.sql)
-- [동명 동물 수 찾기](Programmers-SQL/59041.sql)
-- [입양 시각 구하기(1)](Programmers-SQL/59412.sql)
-##### IS NULL
-- [이름이 없는 동물의 아이디](Programmers-SQL/59039.sql)
-- [이름이 있는 동물의 아이디](Programmers-SQL/59407.sql)
-- [NULL 처리하기](Programmers-SQL/59410.sql)
-##### JOIN
-- [없어진 기록 찾기](Programmers-SQL/59042.sql)
-- [있었는데요 없었습니다](Programmers-SQL/59043.sql)
-- [오랜 기간 보호한 동물(1)](Programmers-SQL/59044.sql)
-##### String, Date
-- [루시와 엘라 찾기](Programmers-SQL/59046.sql)
-- [이름에 el이 들어가는 동물 찾기](Programmers-SQL/59047.sql)
-- [중성화 여부 파악하기](Programmers-SQL/59409.sql)
-- [오랜 기간 보호한 동물(2)](Programmers-SQL/59411.sql)
-- [DATETIME에서 DATE로 형 변환](Programmers-SQL/59414.sql)
