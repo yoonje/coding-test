@@ -103,7 +103,7 @@ Language: Python3 / Oracle<br><br>
 - [1987](BOJ/1987.py) *
 - [1759](BOJ/1759.py) *
 
-## [Kakao 2018 공채 1차](https://programmers.co.kr/learn/challenges?tab=all_challenges)
+## [Kakao 2018 공채 1차](https://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/)
 - [1번](Kakao2018/1.py)
 - [2번](Kakao2018/2.py) *
 - [3번](Kakao2018/3.py)
@@ -112,14 +112,14 @@ Language: Python3 / Oracle<br><br>
 - [6번](Kakao2018/6.py) *
 - [7번](Kakao2018/7.py) *
 
-## [Kakao 2018 공채 3차](https://programmers.co.kr/learn/challenges?tab=all_challenges)
+## [Kakao 2018 공채 3차](https://tech.kakao.com/2017/11/14/kakao-blind-recruitment-round-3/)
 - [1번](Kakao2018-3/1.py) **
 - [2번](Kakao2018-3/2.py)
 - [3번](Kakao2018-3/3.py)
 - [4번](Kakao2018-3/4.py) *
 - [5번](Kakao2018-3/5.py) **
 
-## [Kakao 2019 공채 1차](https://programmers.co.kr/learn/challenges?tab=all_challenges)
+## [Kakao 2019 공채 1차](https://tech.kakao.com/2018/09/21/kakao-blind-recruitment-for2019-round-1/)
 - [1번](Kakao2019/1.py)
 - [2번](Kakao2019/2.py)
 - [3번](Kakao2019/3.py) *
@@ -128,7 +128,7 @@ Language: Python3 / Oracle<br><br>
 - [6번](Kakao2019/6.py) *
 - [7번](Kakao2019/7.py) *
 
-## [Kakao 2020 공채 1차](https://programmers.co.kr/learn/challenges?tab=all_challenges)
+## [Kakao 2020 공채 1차](https://tech.kakao.com/2019/10/02/kakao-blind-recruitment-2020-round1/)
 - [1번](Kakao2020/1.py) *
 - [2번](Kakao2020/2.py) *
 - [3번](Kakao2020/3.py) *
@@ -137,12 +137,19 @@ Language: Python3 / Oracle<br><br>
 - [6번](Kakao2020/6.py) *
 - [7번](Kakao2020/7.py) *
 
-## [Kakao 2020 겨울 인턴십](https://programmers.co.kr/learn/challenges?tab=all_challenges)
+## [Kakao 2019 겨울 인턴십](https://tech.kakao.com/2020/04/01/2019-internship-test/)
 - [1번](Kakao2020-winter-internship/1.py)
 - [2번](Kakao2020-winter-internship/2.py)
 - [3번](Kakao2020-winter-internship/3.py) *
 - [4번](Kakao2020-winter-internship/4.py) *
 - [5번](Kakao2020-winter-internship/5.py) **
+
+## [Kakao 2020 여름 인턴십](https://tech.kakao.com/2020/07/01/2020-internship-test/)
+- [1번](Kakao2020-summer-internship/1.py)
+- [2번](Kakao2020-summer-internship/2.py)
+- [3번](Kakao2020-summer-internship/3.py)
+- [4번](Kakao2020-summer-internship/4.py)
+- [5번](Kakao2020-summer-internship/5.py)
 
 ## [Programmers 모의테스트](https://programmers.co.kr/learn/courses/18)
 - [1번](Programmers-semi-test/1.py)
