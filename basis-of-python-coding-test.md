@@ -169,9 +169,9 @@ Python을 이용한 코딩 테스트 문제 해결을 위한 노하우와 유형
   - 변수 = copy.deepcopy(객체): 객체 간의 깊은 복사를 이용할 때 사용한다.
 - `clollections.defaultdict`
   - dict의 하위 클래스로 key에 대한 value가 없을 때 default값을 자동으로 넣어 주는 모듈
-  - default(list): value가 기본으로 list이기 때문에 객체[key].append()를 활용해서 값 추가  
-  - default(set): value가 기본으로 set이기 때문에 객체[key].add()를 활용해서 값 추가 
-  - default(int): key에 대한 값이 없을 때 기본으로 0으로 초기화
+  - defaultdict(list): value가 기본으로 list이기 때문에 객체[key].append()를 활용해서 값 추가  
+  - defaultdict(set): value가 기본으로 set이기 때문에 객체[key].add()를 활용해서 값 추가 
+  - defaultdict(int): key에 대한 값이 없을 때 기본으로 0으로 초기화
 - `itertools.combinations`
   - itertools.combinations(p, r): iterable 객체 p에 대해 r만큼의 길이에 대한 순서가 없고 중복도 없는 조합을 리턴
 - `itertools.combinations_with_replacement`
